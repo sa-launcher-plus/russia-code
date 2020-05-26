@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['GTASAlaUncher+.py'],
-             pathex=['C:\\Users\\KL\\Desktop\\Файлы компьютера\\Работа\\github\\gta_sa_launcher-_v2'],
+             pathex=['C:\\Users\\KL\\Desktop\\Файлы компьютера\\Работа\\github\\russia-code'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='C:\\Users\\KL\\Desktop\\Файлы компьютера\\Работа\\github\\gta_sa_launcher-_v2\\iconlc+.ico')
+          console=False , icon='C:\\Users\\KL\\Desktop\\Файлы компьютера\\Работа\\github\\russia-code\\iconlc+.ico')
