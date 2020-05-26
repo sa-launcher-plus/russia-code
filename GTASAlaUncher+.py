@@ -345,7 +345,7 @@ def cleo_download():
 
 
 window = Tk()
-window.title('GTA SA LaUncher+ | V2.6')
+window.title('GTA SA LaUncher+ CRAZY RUSSIA Custom | V1.0')
 window.resizable(width=False, height=False)
 window.geometry('650x322')
 window.iconbitmap('iconlc+.ico')
